@@ -1,3 +1,3 @@
-module zoo
+module study_go
 
 go 1.16
