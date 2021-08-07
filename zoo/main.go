@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./animals"
+	"study_go/zoo/animals"
 )
 
 func main() {
