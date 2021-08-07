@@ -1,3 +1,3 @@
-module github.com/kmtszky/Golang.git
+module zoo
 
 go 1.16
